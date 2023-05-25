@@ -1,0 +1,1834 @@
+HWiNFO64 Version 7.46-5110
+
+SERGIO --------------------------------------------------------------------
+
+ [Computer attuale]
+  Marca del computer:                     HUAWEI BOM-WXX9
+ [Sistema operativo]
+  Sistema operativo:                      Microsoft Windows 11 Home (x64) Build 22000.1817 (21H2)
+  Avvio UEFI:                             Presente
+  Avvio sicuro:                           Abilitato
+  Integrità del codice protetto da hypervisor (HVCI): Disabilitat
+
+Processore/i centrale/i ---------------------------------------------------
+
+ [Conteggio unità CPU]
+  Numero di pacchetti processore (fisico): 1
+  Numero di core del processore:          6
+  Numero di processori logici:            12
+
+AMD Ryzen 5 5500U ---------------------------------------------------------
+
+ [Informazioni generali]
+  Nome del processore:                    AMD Ryzen 5 5500U
+  Frequenza del processore originale:     2100.0 MHz
+  Original Processor Frequency [MHz]:     2100
+  CPU ID:                                 00860F81
+  CPUID esteso:                           00860F81
+  Marca della CPU:                        AMD Ryzen 5 5500U with Radeon Graphics
+  Fornitore CPU:                          AuthenticAMD
+  Step della CPU:                         LCN-A1
+  Nome codice CPU:                        Lucienne
+  Tecnologia CPU:                         7 nm
+  CPU OPN:                                100-000000375
+  Potenza di progettazione termica della CPU (TDP): 15.0 W
+  CPU Thermal Design Current (TDC):       Limite: 58.0 A
+  CPU Electrical Design Current (EDC):    Limite: 96.0 A
+  Monitoraggio della potenza del pacchetto CPU (PPT): Limite: 54.0 W
+  Limite APU STAPM (Skin Temperature-Aware Power Management): 15.0 W
+  Limite di potenza della CPU 1 (durata lunga)/Potenza di base del processore (PBP): Potenza = 31.00 W [Sbloccato]
+  Limite di potenza della CPU 2 (breve durata)/massima potenza turbo (MTP): Potenza = 36.00 W [Sbloccato]
+  CPU max. Temperatura di giunzione (Tj,max): 100 °C
+  Scalare PBO CPU (riduzione dell'affidabilità): 1.00x
+  Limite di viaggio termico della CPU:    125.0 °C
+  Limite di temperatura della CPU HTC:    115.5 °C
+  Tipo di CPU:                            Unità produttiva
+  Piattaforma CPU:                        FP6
+  Revisione aggiornamento microcodice:    8608103
+  Revisione firmware SMU:                 55.82.0
+  Ordine delle prestazioni core:          2, 4, 6, 5, 3, 1
+  Ordine di prestazione core (CPPC):      1, 2, 3, 4, 5, 6
+  cLDO VDDP:                              0.7514 V
+  Numero di core CPU:                     6
+  Numero di CPU logiche:                  12
+ [Punti operativi]
+  CPU minima:                             400.0 MHz = 4.00 x 100.0 MHz
+  Base CPU:                               2100.0 MHz = 21.00 x 100.0 MHz
+  CPU Boost Max (Fmax):                   4050.0 MHz = 40.50 x 100.0 MHz
+  Limite clock di Precision Boost:        4050.0 MHz = 40.50 x 100.0 MHz
+  Offset di overclock automatico della CPU: 0 MHz
+  CPU attuale:                            2445.6 MHz = 24.50 x 99.8 MHz @ 0.7937 V
+  Tipo di bus della CPU:                  UMI
+ [Cache e TLB]
+  L1 cache:                               Instruction: 6 x 32 KBytes, Data: 6 x 32 KBytes
+  L2 cache:                               Integrated: 6 x 512 KBytes
+  L3 cache:                               2 x 4 MBytes
+  Instruction TLB:                        Fully associative, 64 entries
+  Data TLB:                               Fully associative, 64 entries
+ [Flag di funzionalità standard]
+  FPU on Chip                             Presente
+  Enhanced Virtual-86 Mode                Presente
+  I/O Breakpoints                         Presente
+  Page Size Extensions                    Presente
+  Time Stamp Counter                      Presente
+  Pentium-style Model Specific Registers  Presente
+  Physical Address Extension              Presente
+  Machine Check Exception                 Presente
+  CMPXCHG8B Instruction                   Presente
+  APIC On Chip / PGE (AMD)                Presente
+  Fast System Call                        Presente
+  Memory Type Range Registers             Presente
+  Page Global Feature                     Presente
+  Machine Check Architecture              Presente
+  CMOV Instruction                        Presente
+  Page Attribute Table                    Presente
+  36-bit Page Size Extensions             Presente
+  Processor Number                        Non presente
+  CLFLUSH Instruction                     Presente
+  Debug Trace and EMON Store              Non presente
+  Internal ACPI Support                   Non presente
+  MMX Technology                          Presente
+  Fast FP Save/Restore (IA MMX-2)         Presente
+  Streaming SIMD Extensions               Presente
+  Streaming SIMD Extensions 2             Presente
+  Self-Snoop                              Non presente
+  Multi-Threading Capable                 Presente
+  Automatic Clock Control                 Non presente
+  IA-64 Processor                         Non presente
+  Signal Break on FERR                    Non presente
+  Streaming SIMD Extensions 3             Presente
+  PCLMULQDQ Instruction Support           Presente
+  MONITOR/MWAIT Support                   Presente
+  Supplemental Streaming SIMD Extensions 3 Presente
+  FMA Extension                           Presente
+  CMPXCHG16B Support                      Presente
+  Streaming SIMD Extensions 4.1           Presente
+  Streaming SIMD Extensions 4.2           Presente
+  x2APIC                                  Non presente
+  POPCNT Instruction                      Presente
+  AES Cryptography Support                Presente
+  XSAVE/XRSTOR/XSETBV/XGETBV Instructions Presente
+  XGETBV/XSETBV OS Enabled                Presente
+  AVX Support                             Presente
+  Half-Precision Convert (CVT16)          Presente
+ [Flag di funzionalità estese]
+  FPU on Chip                             Presente
+  Enhanced Virtual-86 Mode                Presente
+  I/O Breakpoints                         Presente
+  Page Size Extensions                    Presente
+  Time Stamp Counter                      Presente
+  AMD-style Model Specific Registers      Presente
+  Machine Check Exception                 Presente
+  CMPXCHG8B Instruction                   Presente
+  APIC On Chip                            Presente
+  SYSCALL and SYSRET Instructions         Presente
+  Memory Type Range Registers             Presente
+  Page Global Feature                     Presente
+  Machine Check Architecture              Presente
+  CMOV Instruction                        Presente
+  Page Attribute Table                    Presente
+  36-bit Page Size Extensions             Presente
+  Multi-Processing / Brand feature        Non presente
+  No Execute                              Presente
+  MMX Technology                          Presente
+  MMX+ Extensions                         Presente
+  Fast FP Save/Restore                    Presente
+  Fast FP Save/Restore Optimizations      Presente
+  1 GB large page support                 Presente
+  RDTSCP Instruction                      Presente
+  x86-64 Long Mode                        Presente
+  3DNow! Technology Extensions            Non presente
+  3DNow! Technology                       Non presente
+  Bit Manipulation Instructions Set 1     Presente
+  Bit Manipulation Instructions Set 2     Presente
+  Advanced Vector Extensions 2 (AVX2)     Presente
+  Advanced Vector Extensions 512 (AVX-512) Foundation Non presente
+  AVX-512 Prefetch Instructions           Non presente
+  AVX-512 Exponential and Reciprocal Instructions Non presente
+  AVX-512 Conflict Detection Instructions Non presente
+  AVX-512 Doubleword and Quadword Instructions Non presente
+  AVX-512 Byte and Word Instructions      Non presente
+  AVX-512 Vector Length Extensions        Non presente
+  AVX-512 52-bit Integer FMA Instructions Non presente
+  Secure Hash Algorithm (SHA) Extensions  Presente
+  Software Guard Extensions (SGX) Support Non presente
+  Supervisor Mode Execution Protection (SMEP) Presente
+  Supervisor Mode Access Prevention (SMAP) Presente
+  Hardware Lock Elision (HLE)             Non presente
+  Restricted Transactional Memory (RTM)   Non presente
+  Memory Protection Extensions (MPX)      Non presente
+  Read/Write FS/GS Base Instructions      Presente
+  Enhanced Performance String Instruction Non presente
+  INVPCID Instruction                     Non presente
+  RDSEED Instruction                      Presente
+  Multi-precision Add Carry Instructions (ADX) Presente
+  PCOMMIT Instructions                    Non presente
+  CLFLUSHOPT Instructions                 Presente
+  CLWB Instructions                       Presente
+  TSC_THREAD_OFFSET                       Non presente
+  Platform Quality of Service Monitoring (PQM) Presente
+  Platform Quality of Service Enforcement (PQE) Presente
+  FPU Data Pointer updated only on x87 Exceptions Non presente
+  Deprecated FPU CS and FPU DS            Non presente
+  Intel Processor Trace                   Non presente
+  PREFETCHWT1 Instruction                 Non presente
+  AVX-512 Vector Bit Manipulation Instructions Non presente
+  AVX-512 Vector Bit Manipulation Instructions 2 Non presente
+  AVX-512 Galois Fields New Instructions  Non presente
+  AVX-512 Vector AES                      Non presente
+  AVX-512 Vector Neural Network Instructions Non presente
+  AVX-512 Bit Algorithms                  Non presente
+  AVX-512 Carry-Less Multiplication Quadword (VPCLMULQDQ) Non presente
+  AVX-512 Vector POPCNT (VPOPCNTD/VPOPCNTQ) Non presente
+  User-Mode Instruction Prevention        Presente
+  Protection Keys for User-mode Pages     Non presente
+  OS Enabled Protection Keys              Non presente
+  Wait and Pause Enhancements (WAITPKG)   Non presente
+  Total Memory Encryption                 Non presente
+  Key Locker                              Non presente
+  57-bit Linear Addresses, 5-level Paging Non presente
+  Read Processor ID                       Presente
+  OS Bus-Lock Detection                   Non presente
+  Cache Line Demote                       Non presente
+  MOVDIRI: Direct Stores                  Non presente
+  MOVDIR64B: Direct Stores                Non presente
+  ENQCMD: Enqueue Stores                  Non presente
+  SGX Launch Configuration                Non presente
+  Protection Keys for Supervisor-Mode Pages Non presente
+  Control-Flow Enforcement Technology (CET) Shadow Stack Non presente
+  Attestation Services for Intel SGX      Non presente
+  AVX-512 4 x Vector Neural Network Instructions Word Variable Precision Non presente
+  AVX-512 4 x Fused Multiply Accumulation Packed Single Precision Non presente
+  Fast Short REP MOV                      Non presente
+  User Interrupts                         Non presente
+  AVX-512 VP2INTERSECT Support            Non presente
+  AVX-512 FP16                            Non presente
+  MD_CLEAR Support                        Non presente
+  IA32_MCU_OPT_CTRL MSR Support           Non presente
+  Restricted Transactional Memory (RTM) Always Abort Non presente
+  Restricted Transactional Memory (RTM) Force Abort Non presente
+  SERIALIZE                               Non presente
+  Hybrid Processor                        Non presente
+  TSX Suspend Load Address Tracking       Non presente
+  Platform Configuration (PCONFIG)        Non presente
+  Architectural LBRs                      Non presente
+  Indirect Branch Restricted Speculation (IBRS), Indirect Branch Predictor Barrier (IBPB) Non presente
+  Single Thread Indirect Branch Predictors (STIBP) Non presente
+  L1D_FLUSH Support                       Non presente
+  IA32_ARCH_CAPABILITIES MSR              Non presente
+  IA32_CORE_CAPABILITIES MSR              Non presente
+  Speculative Store Bypass Disable (SSBD) Non presente
+  Control-Flow Enforcement Technology (CET) Indirect Branch Tracking Non presente
+  Advanced Matrix Extensions (AMX) Tile Architecture Non presente
+  Advanced Matrix Extensions (AMX) bfloat16 Support Non presente
+  Advanced Matrix Extensions (AMX) 8-bit Integer Operations Non presente
+  Advanced Matrix Extensions (AMX) FP16 Instructions Non presente
+  AVX (VEX-encoded) Vector Neural Network Instructions Non presente
+  AVX-512 BFLOAT16 Instructions           Non presente
+  Fast Zero-Length MOVSB                  Non presente
+  Fast Short STOSB                        Non presente
+  Fast Short CMPSB, SCASB                 Non presente
+  History Reset                           Non presente
+  Linear Address Masking                  Non presente
+  RAO-INT Instructions                    Non presente
+  CMPccXADD Instructions                  Non presente
+  WRMSRNS Instruction                     Non presente
+  AVX-IFMA Instructions                   Non presente
+  RD/WR MSRLIST Instructions              Non presente
+  Protected Processor Inventory Number (IA32_PPIN) Support Non presente
+  AVX-VNNI-INT8 Instructions              Non presente
+  AVX-NE-CONVERT Instructions             Non presente
+  PREFETCHIT0/1 Instructions              Non presente
+  AMX-COMPLEX Instructions                Non presente
+  CET Supervisor Shadow-Stack             Non presente
+  Not Exhibiting MXCSR Configuration Dependent Timing (MCDT) Non presente
+  UC-Lock Disable Feature                 Non presente
+  LAHF/SAHF Long Mode Support             Presente
+  Core Multi-Processing Legacy Mode       Presente
+  Secure Virtual Machine                  Presente
+  Extended APIC Register Space            Presente
+  LOCK MOV CR0 Support                    Presente
+  Advanced Bit Manipulation               Presente
+  SSE4A Support                           Presente
+  Misaligned SSE Mode                     Presente
+  PREFETCH(W) Support                     Presente
+  OS Visible Work-around Support          Presente
+  Instruction Based Sampling              Presente
+  XOP Instruction Support                 Non presente
+  SKINIT, STGI, and DEV Support           Presente
+  Watchdog Timer Support                  Presente
+  TBM0 Instruction Support                Non presente
+  Lightweight Profiling Support           Non presente
+  FMA4 Instruction Support                Non presente
+  Translation Cache Extension             Presente
+  NodeId Support                          Non presente
+  Trailing Bit Manipulation               Non presente
+  Topology Extensions                     Presente
+  Core Performance Counter Extensions     Presente
+  NB Performance Counter Extensions       Presente
+  Streaming Performance Monitor Architecture Non presente
+  Data Breakpoint Extension               Presente
+  Performance Time-Stamp Counter          Non presente
+  L2I Performance Counter Extensions      Presente
+  MWAITX/MONITORX Support                 Presente
+  Crittografia sicura della memoria (SME) Presente
+  Virtualizzazione crittografata sicura (SEV) Presente
+ [Enhanced Features]
+  Core Performance Boost                  Supportato, Abilitato
+ [Intervalli di memoria]
+  Dimensione massima dell'indirizzo fisico: 48-bit (256 TByte)
+  Dimensione massima dell'indirizzo virtuale: 48-bit (256 TByte)
+ [MTRRs]
+  Range 0-80000000 (0MB-2048MB) Type:     Write Back (WB)
+  Range 80000000-C0000000 (2048MB-3072MB) Type: Write Back (WB)
+  Range C0000000-D0000000 (3072MB-3328MB) Type: Write Back (WB)
+  Range FF000000-100000000 (4080MB-4096MB) Type: Write Protected (WP)
+
+Scheda madre --------------------------------------------------------------
+
+ [Computer]
+  Marca del computer:                     HUAWEI BOM-WXX9
+ [Scheda madre]
+  Modello della scheda madre:             HUAWEI BOM-WXX9-PCB-B2
+  Chipset della scheda madre:             AMD Promontory/Bixby FCH
+  Slot della scheda madre:                2xPCI Express x1, 1xPCI Express x4
+  Versione PCI Express supportata:        v3.0
+  Versione USB supportata:                v3.1
+ [BIOS]
+  Produttore del BIOS:                    HUAWEI
+  Data BIOS:                              03/23/2022
+  Versione del BIOS:                      2.09
+  UEFI BIOS:                              Capace
+  Chip Super-IO/LPC:                      Unknown
+  Chip Trusted Platform Module (TPM):     Hardware TPM, version v2.0
+
+Dispositivi ACPI ----------------------------------------------------------
+
+
+AMD I2C Controller --------------------------------------------------------
+
+  Nome del dispositivo:                   AMD I2C Controller
+ [Risorse assegnate]
+  IRQ:                                    10
+ [Alternative 1]
+  Posizione di memoria:                   FEDC2000
+  IRQ:                                    10
+
+AMD I2C Controller --------------------------------------------------------
+
+  Nome del dispositivo:                   AMD I2C Controller
+ [Risorse assegnate]
+  IRQ:                                    6
+ [Alternative 1]
+  Posizione di memoria:                   FEDC5000
+  IRQ:                                    6
+
+AMD GPIO Controller -------------------------------------------------------
+
+  Nome del dispositivo:                   AMD GPIO Controller
+ [Risorse assegnate]
+  IRQ:                                    7
+ [Alternative 1]
+  Posizione di memoria:                   FED81500
+  Posizione di memoria:                   FED81200
+  IRQ:                                    7
+
+Everest I2S Codec Audio Device --------------------------------------------
+
+  Nome del dispositivo:                   Everest I2S Codec Audio Device
+ [Risorse assegnate]
+ [Alternative 1]
+  IRQ:                                    1034
+
+I2C HID Device ------------------------------------------------------------
+
+  Nome del dispositivo:                   I2C HID Device
+ [Risorse assegnate]
+ [Alternative 1]
+  IRQ:                                    1033
+
+Standard PS/2 Keyboard ----------------------------------------------------
+
+  Nome del dispositivo:                   Standard PS/2 Keyboard
+ [Risorse assegnate]
+  Porta I/O:                              0060
+  Porta I/O:                              0000
+ [Alternative 1]
+  Porta I/O:                              0060
+  Porta I/O:                              0064
+  IRQ:                                    1
+
+Trusted Platform Module 2.0 -----------------------------------------------
+
+  Nome del dispositivo:                   Trusted Platform Module 2.0
+ [Risorse assegnate]
+  Posizione di memoria:                   CBD4D000 - CBD50FFF
+ [Alternative 1]
+  Posizione di memoria:                   CBD4D000 - CBD50FFF
+  Posizione di memoria:                   CBD51000
+
+Programmable interrupt controller -----------------------------------------
+
+  Nome del dispositivo:                   Programmable interrupt controller
+ [Risorse assegnate]
+  Porta I/O:                              0020 - 0021
+  IRQ:                                    65792
+ [Alternative 1]
+  Porta I/O:                              0020 - 0021
+  Porta I/O:                              00A0 - 00A1
+
+System timer --------------------------------------------------------------
+
+  Nome del dispositivo:                   System timer
+ [Risorse assegnate]
+  Porta I/O:                              0040 - 0043
+ [Alternative 1]
+  Porta I/O:                              0040 - 0043
+
+High precision event timer ------------------------------------------------
+
+  Nome del dispositivo:                   High precision event timer
+ [Risorse assegnate]
+  IRQ:                                    0
+ [Alternative 1]
+  Posizione di memoria:                   FED00000
+  IRQ:                                    0
+  IRQ:                                    8
+
+Direct memory access controller -------------------------------------------
+
+  Nome del dispositivo:                   Direct memory access controller
+ [Risorse assegnate]
+  Porta I/O:                              0000 - 000F
+ [Alternative 1]
+  Porta I/O:                              0000 - 000F
+  Porta I/O:                              0081 - 008F
+  Porta I/O:                              00C0 - 00DF
+  DMA:                                    4
+
+System speaker ------------------------------------------------------------
+
+  Nome del dispositivo:                   System speaker
+ [Risorse assegnate]
+  Porta I/O:                              0061
+ [Alternative 1]
+  Porta I/O:                              0061
+
+PCI Express Root Complex --------------------------------------------------
+
+  Nome del dispositivo:                   PCI Express Root Complex
+ [Risorse assegnate]
+  Porta I/O:                              0000 - FFFFFFFF
+  Posizione di memoria:                   000A0000 - 000BFFFF
+  Posizione di memoria:                   000C4000 - 000C3FFF
+  Posizione di memoria:                   000CC000 - 000CFFFF
+  Posizione di memoria:                   000D4000 - 000D3FFF
+  Posizione di memoria:                   000DC000 - 000DFFFF
+  Posizione di memoria:                   000E4000 - 000E3FFF
+  Posizione di memoria:                   000EC000 - 000EFFFF
+  Posizione di memoria:                   FC000000 - FBFFFFFF
+ [Alternative 1]
+  Porta I/O:                              0000 - 0CF7
+  Porta I/O:                              0D00 - FFFF
+  Posizione di memoria:                   000A0000 - 000BFFFF
+  Posizione di memoria:                   000C0000 - 000C3FFF
+  Posizione di memoria:                   000C4000 - 000C7FFF
+  Posizione di memoria:                   000C8000 - 000CBFFF
+  Posizione di memoria:                   000CC000 - 000CFFFF
+  Posizione di memoria:                   000D0000 - 000D3FFF
+  Posizione di memoria:                   000D4000 - 000D7FFF
+  Posizione di memoria:                   000D8000 - 000DBFFF
+  Posizione di memoria:                   000DC000
+  Posizione di memoria:                   000E0000
+  Posizione di memoria:                   000E4000
+  Posizione di memoria:                   000E8000
+  Posizione di memoria:                   000EC000
+  Posizione di memoria:                   D0000000
+  Posizione di memoria:                   FC000000
+  Posizione di memoria:                   FED45000
+  Posizione di memoria:                   FED81900
+  Posizione di memoria:                   FEDC0000
+  Posizione di memoria:                   FEDC6000
+
+System CMOS/real time clock -----------------------------------------------
+
+  Nome del dispositivo:                   System CMOS/real time clock
+ [Risorse assegnate]
+  Porta I/O:                              0070 - 0071
+ [Alternative 1]
+  Porta I/O:                              0070 - 0071
+
+System board --------------------------------------------------------------
+
+  Nome del dispositivo:                   System board
+ [Risorse assegnate]
+  Posizione di memoria:                   FF000000 - FFFFFFFF
+ [Alternative 1]
+  Posizione di memoria:                   FF000000 - FFFFFFFF
+
+Motherboard resources -----------------------------------------------------
+
+  Nome del dispositivo:                   Motherboard resources
+ [Risorse assegnate]
+  Porta I/O:                              0010 - 001F
+  Porta I/O:                              0092
+  Porta I/O:                              0C00 - 0C01
+  Porta I/O:                              0000 - 0C4F
+  IRQ:                                    1114369
+ [Alternative 1]
+  Porta I/O:                              0010 - 001F
+  Porta I/O:                              0072 - 0073
+  Porta I/O:                              0080
+  Porta I/O:                              00B0 - 00B1
+  Porta I/O:                              0092
+  Porta I/O:                              0400 - 04CF
+  Porta I/O:                              04D0 - 04D1
+  Porta I/O:                              04D6
+  Porta I/O:                              0C00 - 0C01
+  Porta I/O:                              0C14
+  Porta I/O:                              0C50 - 0C52
+  Porta I/O:                              0C6C
+  Porta I/O:                              0C6F
+  Porta I/O:                              0CD0 - 0CDB
+
+Motherboard resources -----------------------------------------------------
+
+  Nome del dispositivo:                   Motherboard resources
+ [Risorse assegnate]
+  Posizione di memoria:                   FEC00000 - FEC01FFF
+ [Alternative 1]
+  Posizione di memoria:                   FEC00000 - FEC01FFF
+  Posizione di memoria:                   FEE00000 - FEE00FFF
+  Posizione di memoria:                   FDD00000
+
+Numeric data processor ----------------------------------------------------
+
+  Nome del dispositivo:                   Numeric data processor
+ [Risorse assegnate]
+  Porta I/O:                              00F0 - 00FE
+ [Alternative 1]
+  Porta I/O:                              00F0 - 00FE
+  IRQ:                                    13
+
+Microsoft ACPI-Compliant Embedded Controller ------------------------------
+
+  Nome del dispositivo:                   Microsoft ACPI-Compliant Embedded Controller
+ [Risorse assegnate]
+  Porta I/O:                              0062
+ [Alternative 1]
+  Porta I/O:                              0062
+  Porta I/O:                              0066
+
+SMBIOS DMI ----------------------------------------------------------------
+
+
+BIOS ----------------------------------------------------------------------
+
+  Produttore del BIOS:                    HUAWEI
+  Versione del BIOS:                      2.09
+  Data di rilascio del BIOS:              03/23/2022
+  Segmento di avvio del BIOS:             E000
+  Dimensione del BIOS:                    16384 KByte
+  Versione del BIOS di sistema:           2.9
+  Versione del firmware del Embedded Controller: 2.9
+  ISA Support:                            Non presente
+  MCA Support:                            Non presente
+  EISA Support:                           Non presente
+  PCI Support:                            Presente
+  PC Card (PCMCIA) Support:               Non presente
+  Plug-and-Play Support:                  Presente
+  APM Support:                            Non presente
+  Flash BIOS:                             Presente
+  BIOS Shadow:                            Presente
+  VL-VESA Support:                        Non presente
+  ESCD Support:                           Non presente
+  Boot from CD:                           Presente
+  Selectable Boot:                        Presente
+  BIOS ROM Socketed:                      Non presente
+  Boot from PC Card:                      Non presente
+  EDD Support:                            Presente
+  NEC PC-98 Support:                      Non presente
+  ACPI Support:                           Presente
+  USB Legacy Support:                     Presente
+  AGP Support:                            Non presente
+  I2O Boot Support:                       Non presente
+  LS-120 Boot Support:                    Non presente
+  ATAPI ZIP Drive Boot Support:           Non presente
+  IEE1394 Boot Support:                   Non presente
+  Smart Battery Support:                  Presente
+  BIOS Boot Specification Support:        Presente
+  Function key-initiated Network Service Boot Support: Non presente
+  Targeted Content Distribution Support:  Presente
+  UEFI Specification Support:             Presente
+  Virtual Machine:                        Non presente
+
+Sistema -------------------------------------------------------------------
+
+  Produttore del sistema:                 HUAWEI
+  Nome del prodotto:                      BOM-WXX9
+  Versione del prodotto:                  M1010
+  Numero di serie del prodotto:           5XHPM22126000049
+  UUID:                                   {0B64616F-1DDB-44E2-BE10-75321F76E1FC}
+  SKU Number:                             C100
+  Family:                                 MateBook D
+
+Scheda madre --------------------------------------------------------------
+
+  Produttore della scheda madre:          HUAWEI
+  Nome della scheda madre:                BOM-WXX9-PCB-B2
+  Versione scheda madre:                  M1010
+  Numero di serie della scheda madre:     PM6060221S000034
+  Asset Tag:                              Type2 - Board Asset Tag
+  Posizione nel telaio del:               NULL
+
+Custodia del sistema ------------------------------------------------------
+
+  Produttore:                             HUAWEI
+  Tipo di custodia:                       Notebook
+  Versione:                               M1010
+  Numero di serie:                        5XHPM22126000049
+  Asset Tag Number:                       Chassis Asset Tag
+
+Processore ----------------------------------------------------------------
+
+  Produttore del processore:              Advanced Micro Devices, Inc.
+  Processor Version:                      AMD Ryzen 5 5500U with Radeon Graphics         
+  Frequenza esterna:                      100 MHz
+  Frequenza massima supportata:           4050 MHz
+  Frequenza attuale:                      2100 MHz
+  Presa CPU:                              Popolata
+  Stato della CPU:                        Abilitato
+  Tipo di processore:                     Processore centrale
+  Tensione del processore:                1.2 V
+  Aggiornamento del processore:           None
+  Designazione presa:                     CPU0
+
+L1 - Cache ----------------------------------------------------------------
+
+  Designazione presa:                     L1 - Cache
+  Stato cache:                            Abilitato
+  Posizione cache:                        Interno
+  Tipo di cache:                          L1 Unified
+  Schema cache:                           Write-Back
+  Tipo SRAM supportato:                   Pipeline Burst
+  Tipo SRAM attuale:                      Pipeline Burst
+  Velocità cache:                         1 ns
+  Tipo di correzione degli errori:        Multi-bit ECC
+  Dimensione massima della cache:         384 KByte
+  Dimensione cache installata:            384 KByte
+  Associatività della cache:              8-way Set-Associative
+
+L2 - Cache ----------------------------------------------------------------
+
+  Designazione presa:                     L2 - Cache
+  Stato cache:                            Abilitato
+  Posizione cache:                        Interno
+  Tipo di cache:                          L2 Unified
+  Schema cache:                           Write-Back
+  Tipo SRAM supportato:                   Pipeline Burst
+  Tipo SRAM attuale:                      Pipeline Burst
+  Velocità cache:                         1 ns
+  Tipo di correzione degli errori:        Multi-bit ECC
+  Dimensione massima della cache:         3072 KByte
+  Dimensione cache installata:            3072 KByte
+  Associatività della cache:              8-way Set-Associative
+
+L3 - Cache ----------------------------------------------------------------
+
+  Designazione presa:                     L3 - Cache
+  Stato cache:                            Abilitato
+  Posizione cache:                        Interno
+  Tipo di cache:                          L3 Unified
+  Schema cache:                           Write-Back
+  Tipo SRAM supportato:                   Pipeline Burst
+  Tipo SRAM attuale:                      Pipeline Burst
+  Velocità cache:                         1 ns
+  Tipo di correzione degli errori:        Multi-bit ECC
+  Dimensione massima della cache:         8192 KByte
+  Dimensione cache installata:            8192 KByte
+  Associatività della cache:              16-way Set-Associative
+
+Stringhe di testo OEM -----------------------------------------------------
+
+
+
+
+
+
+Linguaggio BIOS -----------------------------------------------------------
+
+
+
+
+Dispositivo di puntamento integrato ---------------------------------------
+
+  Tipo di dispositivo:                    Touch Pad
+  Interface Type:                         Unknown
+  Number of Buttons:                      2
+
+Batteria portatile --------------------------------------------------------
+
+  Posizione della batteria:               Rear cover inside
+  Produttore di batterie:                 Desay
+  Data di produzione:                     11/02/2021
+  Numero di serie:                        1
+  Nome del dispositivo:                   HB4692Z9ECW-22T
+  Chimica del dispositivo:                Lithium-ion
+  Capacità di progettazione:              0 mWh
+  Tensione di progetto:                   7640 mV
+  SBDS Verison Number:                    
+  Max. Error in Battery Data:             1
+  SBDS Numero di serie:                   Unknown
+  SBDS Data di produzione:                Unknown
+  SBDS Chimica del dispositivo:           F-567
+
+Dispositivi di memoria ----------------------------------------------------
+
+
+Array di memoria fisica ---------------------------------------------------
+
+  Posizione dell'array:                   System board
+  Uso della matrice:                      System memory
+  Metodo di rilevamento degli errori:     Nessuno
+  Capacità di memoria:                    64 GByte
+  Dispositivi di memoria:                 2
+
+Dispositivo di memoria ----------------------------------------------------
+
+  Larghezza totale:                       64 bits
+  Larghezza dati:                         64 bits
+  Dimensioni del dispositivo:             4096 MByte
+  Fattore di forma del dispositivo:       Row of chips
+  Localizzatore dispositivo:              DIMM 0
+  Bank Locator:                           P0 CHANNEL A
+  Tipo di dispositivo:                    DDR4
+  Dettagli del tipo di dispositivo:       Synchronous
+  Velocità di memoria:                    2667 MHz
+  Produttore:                             Samsung
+  Numero di serie:                        00000000
+  Numero parte:                           K4A8G165WC-BCTD
+  Asset Tag:                              
+
+Dispositivo di memoria ----------------------------------------------------
+
+  Larghezza totale:                       64 bits
+  Larghezza dati:                         64 bits
+  Dimensioni del dispositivo:             4096 MByte
+  Fattore di forma del dispositivo:       Row of chips
+  Localizzatore dispositivo:              DIMM 0
+  Bank Locator:                           P0 CHANNEL B
+  Tipo di dispositivo:                    DDR4
+  Dettagli del tipo di dispositivo:       Synchronous
+  Velocità di memoria:                    2667 MHz
+  Produttore:                             Samsung
+  Numero di serie:                        00000000
+  Numero parte:                           K4A8G165WC-BCTD
+  Asset Tag:                              
+
+32-bit Memory Error Information -------------------------------------------
+
+
+32-bit Memory Error Information -------------------------------------------
+
+
+32-bit Memory Error Information -------------------------------------------
+
+
+Memory Array Mapped Address -----------------------------------------------
+
+  Indirizzo di partenza:                  00000000
+  Indirizzo finale:                       007FFFFF
+  Larghezza partizione:                   2
+
+Memory Device Mapped Address ----------------------------------------------
+
+  Indirizzo di partenza:                  00000000
+  Indirizzo finale:                       007FFFFF
+  Partition Row Position:                 Sconosciuto
+  Interleave Position:                    Sconosciuto
+  Interleave Data Depth:                  Sconosciuto
+
+Memory Device Mapped Address ----------------------------------------------
+
+  Indirizzo di partenza:                  00000000
+  Indirizzo finale:                       007FFFFF
+  Partition Row Position:                 Sconosciuto
+  Interleave Position:                    Sconosciuto
+  Interleave Data Depth:                  Sconosciuto
+
+Slot di sistema -----------------------------------------------------------
+
+
+PCI-1 ---------------------------------------------------------------------
+
+  Designazione slot:                      PCI-1
+  Tipo di slot:                           PCI Express x1
+  Utilizzo slot:                          In uso
+  Larghezza bus dati slot:                1x / x1
+  Lunghezza della fessura:                Sconosciuto
+  Base Bus:Device:Function Number:        1:0:0
+
+PCI-2 ---------------------------------------------------------------------
+
+  Designazione slot:                      PCI-2
+  Tipo di slot:                           PCI Express Gen3 x4
+  Utilizzo slot:                          In uso
+  Larghezza bus dati slot:                4x / x4
+  Lunghezza della fessura:                Sconosciuto
+  Base Bus:Device:Function Number:        2:0:0
+
+PCI-3 ---------------------------------------------------------------------
+
+  Designazione slot:                      PCI-3
+  Tipo di slot:                           PCI Express x1
+  Utilizzo slot:                          Vuoto
+  Larghezza bus dati slot:                1x / x1
+  Lunghezza della fessura:                Sconosciuto
+  Base Bus:Device:Function Number:        3:0:0
+
+Memoria -------------------------------------------------------------------
+
+ [Informazioni generali]
+  Dimensione totale della memoria:        8 GByte
+  Total Memory Size [MB]:                 8192
+ [Impostazioni delle prestazioni attuali]
+  Frequenza massima di memoria supportata: 1600.0 MHz
+  Frequenza di memoria corrente:          1330.9 MHz
+  Orario attuale (tCAS-tRCD-tRP-tRAS):    20-19-19-43
+  Canali di memoria supportati:           2
+  Canali di memoria attivi:               2
+  Velocità di comando (CR):               1T
+  Read to Read Delay (tRDRD_SC) Same Chipselect: 1T
+  Read to Read Delay (tRDRD_SG/TrdrdScL) Same Bank Group: 5T
+  Read to Read Delay (tRDRD_SD) Same DIMM: 4T
+  Read to Read Delay (tRDRD_DD) Different DIMM: 4T
+  Write to Write Delay (tWRWR_SC) Same Chipselect: 1T
+  Write to Write Delay (tWRWR_SG/TwrwrScL) Same Bank Group: 5T
+  Write to Write Delay (tWRWR_SD) Same DIMM: 6T
+  Write to Write Delay (tWRWR_DD) Different DIMM: 6T
+  Read to Write Delay (tRDWR_SC) Same Chipselect: 9T
+  Read to Write Delay (tRDWR_SG/TrdwrScL) Same Bank Group: 9T
+  Read to Write Delay (tRDWR_DG/TrdwrScDlr) Different Bank Group: 9T
+  Read to Write Delay (tRDWR_SD) Same DIMM: 9T
+  Read to Write Delay (tRDWR_DD) Different DIMM: 9T
+  Write to Read Delay (tWRRD_SC) Same Chipselect: 1T
+  Write to Read Delay (tWRRD_SG/TwrrdScL) Same Bank Group: 1T
+  Write to Read Delay (tWRRD_SD) Same DIMM: 1T
+  Write to Read Delay (tWRRD_DD) Different DIMM: 1T
+  Read to Precharge Delay (tRTP):         10T
+  Write to Precharge Delay (tWTP):        31T
+  Write Recovery Time (tWR):              20T
+  RAS# to RAS# Delay (tRRD_L):            9T
+  RAS# to RAS# Delay (tRRD_S):            8T
+  Row Cycle Time (tRC):                   62T
+  Refresh Cycle Time (tRFC):              467T
+  Four Activate Window (tFAW):            40T
+
+Bus -----------------------------------------------------------------------
+
+
+PCI Bus #0 ----------------------------------------------------------------
+
+
+AMD Renoir/Cezanne - Root Complex -----------------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Cezanne - Root Complex
+  Nome dispositivo originale:             AMD Renoir/Cezanne - Root Complex
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:0:0
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1630&SUBSYS_1365152D&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1630&SUBSYS_1365152D&REV_00\3&2411E6FE&0&00
+  Location Paths                          PCIROOT(0)#PCI(0000)
+
+AMD Renoir/Van Gogh/Cezanne - PCIe Dummy Host Bridge ----------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh/Cezanne - PCIe Dummy Host Bridge
+  Nome dispositivo originale:             AMD Renoir/Van Gogh/Cezanne - PCIe Dummy Host Bridge
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:1:0
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&2411E6FE&0&08
+  Location Paths                          PCIROOT(0)#PCI(0100)
+
+AMD Renoir/Van Gogh/Cezanne - PCIe Dummy Host Bridge ----------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh/Cezanne - PCIe Dummy Host Bridge
+  Nome dispositivo originale:             AMD Renoir/Van Gogh/Cezanne - PCIe Dummy Host Bridge
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:2:0
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&2411E6FE&0&10
+  Location Paths                          PCIROOT(0)#PCI(0200)
+
+AMD Renoir/Cezanne - PCIe GPP Bridge --------------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Cezanne - PCIe GPP Bridge
+  Nome dispositivo originale:             AMD Renoir/Cezanne - PCIe GPP Bridge
+  Classe dispositivo:                     PCI-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:2:2
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1634&SUBSYS_00000000&REV_00
+ [PCI Express]
+  Versione:                               3.0
+  Larghezza massima del collegamento:     1x
+  Larghezza collegamento corrente:        1x
+  Velocità di collegamento massima:       8.0 GT/s
+  Velocità di collegamento attuale:       2.5 GT/s
+  Tipo di dispositivo/porta:              Porta radice del complesso radice PCI Express
+  Slot implementato:                      Sì
+  Hot-Plug:                               Non capace
+  Hot-Plug Surprise:                      Non capace
+  Limite di potenza dello slot:           75.000 W
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L1
+  Active State Power Management (ASPM) Status: L1 Entry
+  L0s Exit Latency:                       >4 us
+  L1 Exit Latency:                        32 - 64 us
+  Maximum Payload Size Supported:         512 bytes
+  Maximum Payload Size:                   128 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Porta radice PCI Express
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1641
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1634&SUBSYS_1365152D&REV_00\3&2411E6FE&0&12
+  Location Paths                          PCIROOT(0)#PCI(0202)
+
+PCI Express x1 Bus #1 -----------------------------------------------------
+
+
+RealTek Semiconductor RTL8822CE Wireless LAN 802.11ac PCI-E NIC -----------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   RealTek Semiconductor RTL8822CE Wireless LAN 802.11ac PCI-E NIC
+  Nome dispositivo originale:             RealTek Semiconductor RTL8822CE Wireless LAN 802.11ac PCI-E NIC
+  Classe dispositivo:                     Other Network Adapter
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 1:0:0
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_10EC&DEV_C822&SUBSYS_1E251058&REV_00
+ [PCI Express]
+  Versione:                               1.1
+  Larghezza massima del collegamento:     1x
+  Larghezza collegamento corrente:        1x
+  Velocità di collegamento massima:       2.5 GT/s
+  Velocità di collegamento attuale:       2.5 GT/s
+  Tipo di dispositivo/porta:              Endpoint PCI Express
+  Slot implementato:                      No
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: L1 Entry
+  L0s Exit Latency:                       2 - 4 us
+  L1 Exit Latency:                        32 - 64 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    INTA#
+  Indirizzo di base I/O 0                 2F00
+  Indirizzo della base di memoria 2       D05F0000
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Realtek Semiconductor Corp.
+  Descrizione del conducente:             Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC
+  Fornitore di driver:                    Realtek Semiconductor Corp.
+  Versione del driver:                    2024.10.228.2
+  Data del driver del dispositivo:        07-Mar-2023
+  DeviceInstanceId                        PCI\VEN_10EC&DEV_C822&SUBSYS_1E251058&REV_00\00E04CFFFEC8220100
+  Location Paths                          PCIROOT(0)#PCI(0202)#PCI(0000)
+
+AMD Renoir/Cezanne - PCIe GPP Bridge --------------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Cezanne - PCIe GPP Bridge
+  Nome dispositivo originale:             AMD Renoir/Cezanne - PCIe GPP Bridge
+  Classe dispositivo:                     PCI-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:2:4
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1634&SUBSYS_00000000&REV_00
+ [PCI Express]
+  Versione:                               3.0
+  Larghezza massima del collegamento:     4x
+  Larghezza collegamento corrente:        4x
+  Velocità di collegamento massima:       8.0 GT/s
+  Velocità di collegamento attuale:       5.0 GT/s
+  Tipo di dispositivo/porta:              Porta radice del complesso radice PCI Express
+  Slot implementato:                      Sì
+  Hot-Plug:                               Non capace
+  Hot-Plug Surprise:                      Non capace
+  Limite di potenza dello slot:           75.000 W
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L1
+  Active State Power Management (ASPM) Status: L1 Entry
+  L0s Exit Latency:                       >4 us
+  L1 Exit Latency:                        32 - 64 us
+  Maximum Payload Size Supported:         512 bytes
+  Maximum Payload Size:                   256 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Porta radice PCI Express
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1641
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1634&SUBSYS_1365152D&REV_00\3&2411E6FE&0&14
+  Location Paths                          PCIROOT(0)#PCI(0204)
+
+PCI Express x4 Bus #2 -----------------------------------------------------
+
+
+Phison Electronics PS5013 PCIe 3.0 x4 NVMe 1.3 SSD Controller -------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   Phison Electronics PS5013 PCIe 3.0 x4 NVMe 1.3 SSD Controller
+  Nome dispositivo originale:             Phison Electronics PS5013 PCIe 3.0 x4 NVMe 1.3 SSD Controller
+  Classe dispositivo:                     NVMe Controller
+  ID revisione:                           1
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 2:0:0
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1987&DEV_5013&SUBSYS_50131987&REV_01
+ [PCI Express]
+  Versione:                               3.0
+  Larghezza massima del collegamento:     4x
+  Larghezza collegamento corrente:        4x
+  Velocità di collegamento massima:       8.0 GT/s
+  Velocità di collegamento attuale:       5.0 GT/s
+  Tipo di dispositivo/porta:              Endpoint PCI Express
+  Slot implementato:                      No
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L1
+  Active State Power Management (ASPM) Status: L1 Entry
+  L0s Exit Latency:                       >4 us
+  L1 Exit Latency:                        >64 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   256 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    INTA#
+  Indirizzo della base di memoria 0       D0400000
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Controller Standard NVM Express
+  Descrizione del conducente:             Controller Standard NVM Express
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1761
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1987&DEV_5013&SUBSYS_50131987&REV_01\4&1618A473&0&0014
+  Location Paths                          PCIROOT(0)#PCI(0204)#PCI(0000)
+
+AMD Renoir/Van Gogh/Cezanne - PCIe Dummy Host Bridge ----------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh/Cezanne - PCIe Dummy Host Bridge
+  Nome dispositivo originale:             AMD Renoir/Van Gogh/Cezanne - PCIe Dummy Host Bridge
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:8:0
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&2411E6FE&0&40
+  Location Paths                          PCIROOT(0)#PCI(0800)
+
+AMD Renoir/Cezanne - Internal PCIe GPP Bridge to Bus ----------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Cezanne - Internal PCIe GPP Bridge to Bus
+  Nome dispositivo originale:             AMD Renoir/Cezanne - Internal PCIe GPP Bridge to Bus
+  Classe dispositivo:                     PCI-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:8:1
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1635&SUBSYS_000000FC&REV_00
+ [PCI Express]
+  Versione:                               4.0
+  Larghezza massima del collegamento:     16x
+  Larghezza collegamento corrente:        16x
+  Velocità di collegamento massima:       16.0 GT/s
+  Velocità di collegamento attuale:       8.0 GT/s
+  Tipo di dispositivo/porta:              Porta radice del complesso radice PCI Express
+  Slot implementato:                      No
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: L0s and L1 Entry
+  L0s Exit Latency:                       < 64 ns
+  L1 Exit Latency:                        < 1 us
+  Maximum Payload Size Supported:         512 bytes
+  Maximum Payload Size:                   128 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    INTA#
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Porta radice PCI Express
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1641
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1635&SUBSYS_1365152D&REV_00\3&2411E6FE&0&41
+  Location Paths                          PCIROOT(0)#PCI(0801)
+
+PCI Express x16 Bus #3 ----------------------------------------------------
+
+
+ATI/AMD Lucienne - Internal GPU -------------------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   ATI/AMD Lucienne - Internal GPU
+  Nome dispositivo originale:             ATI/AMD Lucienne - Internal GPU
+  Classe dispositivo:                     VGA Compatible Adapter
+  ID revisione:                           C2
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 3:0:0
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1002&DEV_164C&SUBSYS_1365152D&REV_C2
+ [PCI Express]
+  Versione:                               4.0
+  Larghezza massima del collegamento:     16x
+  Larghezza collegamento corrente:        16x
+  Velocità di collegamento massima:       16.0 GT/s
+  Velocità di collegamento attuale:       8.0 GT/s
+  Tipo di dispositivo/porta:              Endpoint PCI Express legacy
+  Slot implementato:                      No
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: L0s and L1 Entry
+  L0s Exit Latency:                       < 64 ns
+  L1 Exit Latency:                        < 1 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   128 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    INTA#
+  Indirizzo della base di memoria 0       FCE0000000
+  Indirizzo della base di memoria 2       FCF0000000
+  Indirizzo di base I/O 4                 0
+  Indirizzo della base di memoria 5       D0300000
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Advanced Micro Devices, Inc.
+  Descrizione del conducente:             AMD Radeon(TM) Graphics
+  Fornitore di driver:                    Advanced Micro Devices, Inc.
+  Versione del driver:                    27.20.14064.1003
+  Versione pacchetto driver AMD:          20.40.64.01-210518a-367963C-Huawei
+  AMD Software Driver Version:            20.40.64.01
+  Data del driver del dispositivo:        18-May-2021
+  DCH/UWD Driver:                         Capace
+  DeviceInstanceId                        PCI\VEN_1002&DEV_164C&SUBSYS_1365152D&REV_C2\4&2BB9CF09&0&0041
+  Location Paths                          PCIROOT(0)#PCI(0801)#PCI(0000)
+
+ATI/AMD Renoir/Cezanne - Display HD Audio Controller ----------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   ATI/AMD Renoir/Cezanne - Display HD Audio Controller
+  Nome dispositivo originale:             ATI/AMD Renoir/Cezanne - Display HD Audio Controller
+  Classe dispositivo:                     High Definition Audio
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 3:0:1
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1002&DEV_1637&SUBSYS_1365152D&REV_00
+ [PCI Express]
+  Versione:                               4.0
+  Larghezza massima del collegamento:     16x
+  Larghezza collegamento corrente:        16x
+  Velocità di collegamento massima:       16.0 GT/s
+  Velocità di collegamento attuale:       8.0 GT/s
+  Tipo di dispositivo/porta:              Endpoint PCI Express legacy
+  Slot implementato:                      No
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: L0s and L1 Entry
+  L0s Exit Latency:                       < 64 ns
+  L1 Exit Latency:                        < 1 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   128 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  IRQ39
+  Pin di interruzione:                    INTB#
+  Indirizzo della base di memoria 0       D03F8000
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Microsoft
+  Descrizione del conducente:             Controller per High Definition Audio
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1516
+  Data del driver del dispositivo:        13-Jan-2023
+  DeviceInstanceId                        PCI\VEN_1002&DEV_1637&SUBSYS_1365152D&REV_00\4&2BB9CF09&0&0141
+  Location Paths                          PCIROOT(0)#PCI(0801)#PCI(0001)
+
+AMD Zen APU - Cryptographic Coprocessor -----------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Zen APU - Cryptographic Coprocessor
+  Nome dispositivo originale:             AMD Zen APU - Cryptographic Coprocessor
+  Classe dispositivo:                     Other Encryption/Decryption
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 3:0:2
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_15DF&SUBSYS_1365152D&REV_00
+ [PCI Express]
+  Versione:                               4.0
+  Larghezza massima del collegamento:     16x
+  Larghezza collegamento corrente:        16x
+  Velocità di collegamento massima:       16.0 GT/s
+  Velocità di collegamento attuale:       8.0 GT/s
+  Tipo di dispositivo/porta:              Endpoint PCI Express
+  Slot implementato:                      No
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: L0s and L1 Entry
+  L0s Exit Latency:                       < 64 ns
+  L1 Exit Latency:                        < 1 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   128 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    INTC#
+  Indirizzo della base di memoria 2       D0200000
+  Indirizzo della base di memoria 5       D03FE000
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Advanced Micro Devices Inc.
+  Descrizione del conducente:             AMD PSP 10.0 Device
+  Fornitore di driver:                    Advanced Micro Devices Inc.
+  Versione del driver:                    5.23.0.0
+  Data del driver del dispositivo:        22-Feb-2023
+  DeviceInstanceId                        PCI\VEN_1022&DEV_15DF&SUBSYS_1365152D&REV_00\4&2BB9CF09&0&0241
+  Location Paths                          PCIROOT(0)#PCI(0801)#PCI(0002)
+
+AMD Renoir/Cezanne - USB 3.1 Controller -----------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Cezanne - USB 3.1 Controller
+  Nome dispositivo originale:             AMD Renoir/Cezanne - USB 3.1 Controller
+  Classe dispositivo:                     USB xHCI Controller
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 3:0:3
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1639&SUBSYS_1365152D&REV_00
+ [PCI Express]
+  Versione:                               4.0
+  Larghezza massima del collegamento:     16x
+  Larghezza collegamento corrente:        16x
+  Velocità di collegamento massima:       16.0 GT/s
+  Velocità di collegamento attuale:       8.0 GT/s
+  Tipo di dispositivo/porta:              Endpoint PCI Express
+  Slot implementato:                      No
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: L0s and L1 Entry
+  L0s Exit Latency:                       < 64 ns
+  L1 Exit Latency:                        < 1 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   128 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    INTD#
+  Indirizzo della base di memoria 0       D0000000
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Controller host USB xHCI generico
+  Descrizione del conducente:             Controller host USB conforme a xHCI
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1761
+  Data del driver del dispositivo:        21-Mar-2023
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1639&SUBSYS_1365152D&REV_00\4&2BB9CF09&0&0341
+  Location Paths                          PCIROOT(0)#PCI(0801)#PCI(0003)
+
+AMD Renoir/Cezanne - USB 3.1 Controller -----------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Cezanne - USB 3.1 Controller
+  Nome dispositivo originale:             AMD Renoir/Cezanne - USB 3.1 Controller
+  Classe dispositivo:                     USB xHCI Controller
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 3:0:4
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1639&SUBSYS_1365152D&REV_00
+ [PCI Express]
+  Versione:                               4.0
+  Larghezza massima del collegamento:     16x
+  Larghezza collegamento corrente:        16x
+  Velocità di collegamento massima:       16.0 GT/s
+  Velocità di collegamento attuale:       8.0 GT/s
+  Tipo di dispositivo/porta:              Endpoint PCI Express
+  Slot implementato:                      No
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: L0s and L1 Entry
+  L0s Exit Latency:                       < 64 ns
+  L1 Exit Latency:                        < 1 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   128 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    INTA#
+  Indirizzo della base di memoria 0       D0100000
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Controller host USB xHCI generico
+  Descrizione del conducente:             Controller host USB conforme a xHCI
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1761
+  Data del driver del dispositivo:        21-Mar-2023
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1639&SUBSYS_1365152D&REV_00\4&2BB9CF09&0&0441
+  Location Paths                          PCIROOT(0)#PCI(0801)#PCI(0004)
+
+AMD Zen - Audio Processor -------------------------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Zen - Audio Processor
+  Nome dispositivo originale:             AMD Zen - Audio Processor
+  Classe dispositivo:                     Other Multimedia Adapter
+  ID revisione:                           1
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 3:0:5
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_15E2&SUBSYS_1365152D&REV_01
+ [PCI Express]
+  Versione:                               4.0
+  Larghezza massima del collegamento:     16x
+  Larghezza collegamento corrente:        16x
+  Velocità di collegamento massima:       16.0 GT/s
+  Velocità di collegamento attuale:       8.0 GT/s
+  Tipo di dispositivo/porta:              Endpoint PCI Express
+  Slot implementato:                      No
+  Emergency Power Reduction:              Non supportato
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: L0s and L1 Entry
+  L0s Exit Latency:                       < 64 ns
+  L1 Exit Latency:                        < 1 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   128 bytes
+  Supporto BAR ridimensionabile:          Non supportato
+ [Risorse di sistema]
+  Linea di interruzione:                  IRQ39
+  Pin di interruzione:                    INTB#
+  Indirizzo della base di memoria 0       D0380000
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  AMD
+  Descrizione del conducente:             AMD Audio CoProcessor
+  Fornitore di driver:                    AMD
+  Versione del driver:                    6.0.0.61
+  Data del driver del dispositivo:        30-Jan-2023
+  DeviceInstanceId                        PCI\VEN_1022&DEV_15E2&SUBSYS_1365152D&REV_01\4&2BB9CF09&0&0541
+  Location Paths                          PCIROOT(0)#PCI(0801)#PCI(0005)
+
+AMD Carrizo FCH - SMBus and ACPI Controller -------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Carrizo FCH - SMBus and ACPI Controller
+  Nome dispositivo originale:             AMD Carrizo FCH - SMBus and ACPI Controller
+  Classe dispositivo:                     SMBus (System Management Bus)
+  ID revisione:                           51
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:20:0
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_790B&SUBSYS_1365152D&REV_51
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Advanced Micro Devices, Inc
+  Descrizione del conducente:             AMD SMBus
+  Fornitore di driver:                    Advanced Micro Devices, Inc
+  Versione del driver:                    5.12.0.38
+  Data del driver del dispositivo:        15-Sep-2022
+  DeviceInstanceId                        PCI\VEN_1022&DEV_790B&SUBSYS_1365152D&REV_51\3&2411E6FE&0&A0
+  Location Paths                          PCIROOT(0)#PCI(1400)
+
+AMD Promontory/Bixby FCH - LPC Bridge -------------------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Promontory/Bixby FCH - LPC Bridge
+  Nome dispositivo originale:             AMD Promontory/Bixby FCH - LPC Bridge
+  Classe dispositivo:                     PCI-to-ISA Bridge
+  ID revisione:                           51
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:20:3
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_790E&SUBSYS_1365152D&REV_51
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Abilitato
+  Running At 66 MHz:                      Capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per bus ISA
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_790E&SUBSYS_1365152D&REV_51\3&2411E6FE&0&A3
+  Location Paths                          PCIROOT(0)#PCI(1403)
+
+AMD Renoir/Van Gogh - Data Fabric: Function 0 -----------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh - Data Fabric: Function 0
+  Nome dispositivo originale:             AMD Renoir/Van Gogh - Data Fabric: Function 0
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:24:0
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1448&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1448&SUBSYS_00000000&REV_00\3&2411E6FE&0&C0
+  Location Paths                          PCIROOT(0)#PCI(1800)
+
+AMD Renoir/Van Gogh - Data Fabric: Function 1 -----------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh - Data Fabric: Function 1
+  Nome dispositivo originale:             AMD Renoir/Van Gogh - Data Fabric: Function 1
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:24:1
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_1449&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  AMD
+  Descrizione del conducente:             AMD IOMMU Device
+  Fornitore di driver:                    AMD
+  Versione del driver:                    1.2.0.43
+  Data del driver del dispositivo:        12-Nov-2019
+  DeviceInstanceId                        PCI\VEN_1022&DEV_1449&SUBSYS_00000000&REV_00\3&2411E6FE&0&C1
+  Location Paths                          PCIROOT(0)#PCI(1801)
+
+AMD Renoir/Van Gogh - Data Fabric: Function 2 -----------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh - Data Fabric: Function 2
+  Nome dispositivo originale:             AMD Renoir/Van Gogh - Data Fabric: Function 2
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:24:2
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_144A&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_144A&SUBSYS_00000000&REV_00\3&2411E6FE&0&C2
+  Location Paths                          PCIROOT(0)#PCI(1802)
+
+AMD Renoir/Van Gogh - Data Fabric: Function 3 -----------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh - Data Fabric: Function 3
+  Nome dispositivo originale:             AMD Renoir/Van Gogh - Data Fabric: Function 3
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:24:3
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_144B&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_144B&SUBSYS_00000000&REV_00\3&2411E6FE&0&C3
+  Location Paths                          PCIROOT(0)#PCI(1803)
+
+AMD Renoir/Van Gogh - Data Fabric: Function 4 -----------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh - Data Fabric: Function 4
+  Nome dispositivo originale:             AMD Renoir/Van Gogh - Data Fabric: Function 4
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:24:4
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_144C&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_144C&SUBSYS_00000000&REV_00\3&2411E6FE&0&C4
+  Location Paths                          PCIROOT(0)#PCI(1804)
+
+AMD Renoir/Van Gogh - Data Fabric: Function 5 -----------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh - Data Fabric: Function 5
+  Nome dispositivo originale:             AMD Renoir/Van Gogh - Data Fabric: Function 5
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:24:5
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_144D&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_144D&SUBSYS_00000000&REV_00\3&2411E6FE&0&C5
+  Location Paths                          PCIROOT(0)#PCI(1805)
+
+AMD Renoir/Van Gogh - Data Fabric: Function 6 -----------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh - Data Fabric: Function 6
+  Nome dispositivo originale:             AMD Renoir/Van Gogh - Data Fabric: Function 6
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:24:6
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_144E&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_144E&SUBSYS_00000000&REV_00\3&2411E6FE&0&C6
+  Location Paths                          PCIROOT(0)#PCI(1806)
+
+AMD Renoir/Van Gogh - Data Fabric: Function 7 -----------------------------
+
+ [Informazioni generali]
+  Nome del dispositivo:                   AMD Renoir/Van Gogh - Data Fabric: Function 7
+  Nome dispositivo originale:             AMD Renoir/Van Gogh - Data Fabric: Function 7
+  Classe dispositivo:                     Host-to-PCI Bridge
+  ID revisione:                           0
+  Numero indirizzo PCI (Bus:Dispositivo:Funzione): 0:24:7
+  PCI Latency Timer:                      0
+  ID hardware:                            PCI\VEN_1022&DEV_144F&SUBSYS_00000000&REV_00
+ [Risorse di sistema]
+  Linea di interruzione:                  N/A
+  Pin di interruzione:                    N/A
+ [Caratteristiche]
+  Bus Mastering:                          Disabilitat
+  Running At 66 MHz:                      Non capace
+  Fast Back-to-Back Transactions:         Non capace
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  (Periferiche standard di sistema)
+  Descrizione del conducente:             Adattatore PCI standard per CPU host
+  Fornitore di driver:                    Microsoft
+  Versione del driver:                    10.0.22000.1
+  Data del driver del dispositivo:        21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_1022&DEV_144F&SUBSYS_00000000&REV_00\3&2411E6FE&0&C7
+  Location Paths                          PCIROOT(0)#PCI(1807)
+
+Adattatore grafico --------------------------------------------------------
+
+
+AMD Radeon Vega -----------------------------------------------------------
+
+ [Chipset grafico]
+  Chipset grafico:                        AMD Radeon Vega
+  Chipset grafico Nome in codice:         Lucienne
+  Memoria grafica:                        512 MByte di DDR4 SDRAM
+ [Scheda grafica]
+  Scheda grafica:                         AMD Lucienne - Internal GPU [Quanta Computer]
+  Bus della scheda grafica:               PCIe v4.0 x16 (16.0 GT/s) @ x16 (8.0 GT/s)
+  Grafica RAMDAC:                         Internal DAC(400MHz)
+  Versione BIOS video:                    017.010.000.029
+ [Prestazione]
+  Frequenza del processore grafico:       400.0 MHz
+  Frequenza della memoria grafica:        400.0 MHz (Efficace 800.0 MHz)
+  Larghezza bus memoria grafica:          128-bit
+  Numero di ROP:                          8
+  Numero di shader unificati:             448
+  Numero di TMU (unità di mappatura della trama): 28
+  Supporto ridimensionabile BAR (ReBAR):  Non supportato
+  ID hardware:                            PCI\VEN_1002&DEV_164C&SUBSYS_1365152D&REV_C2
+  Posizione PCI (Bus:Dispositivo:Funzione): 3:00:0
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Advanced Micro Devices, Inc.
+  Descrizione del conducente:             AMD Radeon(TM) Graphics
+  Fornitore di driver:                    Advanced Micro Devices, Inc.
+  Versione del driver:                    27.20.14064.1003
+  Versione pacchetto driver AMD:          20.40.64.01-210518a-367963C-Huawei
+  AMD Software Driver Version:            20.40.64.01
+  Data del driver del dispositivo:        18-May-2021
+  DCH/UWD Driver:                         Capace
+  DeviceInstanceId                        PCI\VEN_1002&DEV_164C&SUBSYS_1365152D&REV_C2\4&2BB9CF09&0&0041
+  Location Paths                          PCIROOT(0)#PCI(0801)#PCI(0000)
+
+Monitor -------------------------------------------------------------------
+
+
+BOE [Unknown Model: BOE0872] ----------------------------------------------
+
+ [Informazioni generali]
+  Nome monitor:                           BOE [Unknown Model: BOE0872]
+  Nome monitor (dal produttore):          BOE CQ       TV156FHM-NH1 
+  Numero di serie:                        Unknown
+  Data di produzione:                     Settimana: 26, Anno: 2019
+  ID hardware del monitor:                Monitor\BOE0872
+  Massimo Dimensione verticale:           19 cm
+  Massimo Dimensione orizzontale:         34 cm
+ [Parametri avanzati]
+  Segnale di input:                       Digitale
+  Color Bit Depth:                        6 Bits per Primary Color
+  Digital Video Interface Standard Supported: DisplayPort
+  Gamma Factor:                           2.20
+ [Modalità DPMS]
+  Standby:                                Non supportato
+  Suspend:                                Non supportato
+  Active Off:                             Non supportato
+  Standard Colour Space (sRGB) Default:   Non supportato
+  Preferred Timing Mode:                  Supportato
+  Default GTF (Continuous Frequency):     Non supportato
+  DFP 1.x Compatible:                     Sì
+ [Modalità video supportate]
+  1920 x 1080                             344 x 194 mm, Pixel Orologio 152.60 MHz
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Huawei Device Co., Ltd.
+  Descrizione del conducente:             BOE PnP Monitor
+  Fornitore di driver:                    Huawei Device Co., Ltd.
+  Versione del driver:                    21.3.1.4
+  Data del driver del dispositivo:        01-Mar-2021
+  DeviceInstanceId                        DISPLAY\BOE0872\5&AF23D70&0&UID256
+  Location Paths                          ACPI(_SB_)#ACPI(PCI0)#ACPI(GP17)#ACPI(VGA_)#ACPI(LCD_)
+
+Unità disco ---------------------------------------------------------------
+
+
+Unità (S)ATA/ATAPI --------------------------------------------------------
+
+
+Unità NVMe ----------------------------------------------------------------
+
+
+311CD0512GB ---------------------------------------------------------------
+
+ [Informazioni generali]
+  Controller dell'unità:                  NVMe (PCIe 4x 8.0 GT/s)
+  Controller host:                        Phison Electronics PS5013 PCIe 3.0 x4 NVMe 1.3 SSD Controller
+  Modello di unità:                       311CD0512GB
+  Numero di serie dell'unità:             511210820127032117
+  Revisione del firmware dell'unità:      EDFOB0.7
+  Versione NVMe supportata:               v1.3
+  Capacità dell'unità:                    488,386 MByte (512 GB)
+  Drive Capacity [MB]:                    488386
+ [Capacità]
+  Volatile Write Cache:                   Presente
+  Compare Command:                        Non supportato
+  Write Uncorrectable Command:            Supportato
+  Dataset Management:                     Supportato
+  Write Zeroes:                           Supportato
+  Save field set to a non-zero value:     Supportato
+  Reservations:                           Non supportato
+  Timestamp:                              Supportato
+  Autonomous Power State Transitions:     Supportato
+ [Self-Monitoring, Analysis and Reporting Technology (S.M.A.R.T.)]
+  Spazio disponibile sotto la soglia:     Normale
+  Temperatura superata soglia critica:    Normale
+  Affidabilità del dispositivo ridotta:   Normale
+  Supporti in modalità di sola lettura:   Normale
+  Dispositivo di backup della memoria volatile non riuscito: Normale
+  Temperatura del disco:                  28 °C
+  Soglia di temperatura di avviso:        70 °C
+  Soglia di temperatura critica:          85 °C
+  Tempo al di sopra della soglia di temperatura di avviso: 0 minuti
+  Tempo al di sopra della soglia di temperatura critica: 0 minuti
+  Capacità di riserva disponibile:        100%
+  Stato del dispositivo:                  100%
+  Cicli di alimentazione:                 12029
+  Orari di accensione:                    319 ore
+  Arresti non sicuri:                     8266
+  Errori multimediali:                    0
+  Letture host totali:                    1935 GByte
+  Scritture host totali:                  1817 GByte
+
+Rete ----------------------------------------------------------------------
+
+
+RealTek Semiconductor RTL8822CE Wireless LAN 802.11ac PCI-E NIC -----------
+
+ [Informazioni generali]
+  Scheda di rete:                         RealTek Semiconductor RTL8822CE Wireless LAN 802.11ac PCI-E NIC
+  Descrizione del venditore:              Microsoft
+  Indirizzo MAC:                          94-08-53-56-89-61
+ [Capacità]
+  Velocità di collegamento massima:       130 Mbps
+  Dimensione buffer di trasmissione:      Sconosciuto
+  Ricevi la dimensione del buffer:        Sconosciuto
+  ID hardware:                            PCI\VEN_10EC&DEV_C822&SUBSYS_1E251058&REV_00
+ [Informazioni sul driver del dispositivo]
+  Produttore del driver:                  Realtek Semiconductor Corp.
+  Descrizione del conducente:             Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC
+  Fornitore di driver:                    Realtek Semiconductor Corp.
+  Versione del driver:                    2024.10.228.2
+  Data del driver del dispositivo:        07-Mar-2023
+  DeviceInstanceId                        PCI\VEN_10EC&DEV_C822&SUBSYS_1E251058&REV_00\00E04CFFFEC8220100
+  Location Paths                          PCIROOT(0)#PCI(0202)#PCI(0000)
