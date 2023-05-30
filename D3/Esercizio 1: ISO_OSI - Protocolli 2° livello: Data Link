@@ -6,6 +6,16 @@ Livello 2: Data Link
       
 Sottolivello LLC:
       Il sottolivello LLC gestisce i controlli di flusso, conferma e rilevazione degli errori. I protocolli PPP e HDLC fanno parte di questo sottolivello.
+        
+        PPPoE:
+           È un acronimo utilizzato per indicare un protocollo di rete che rappresenta una nuova alternativa per le connessioni Internet ad alta velocità di trasmissione usato soprattutto per servizi DSL. 
+           Sebbene non sia uno standard Internet, il PPPoE è descritto nell'informativo RFC 2516.
+    
+    Token Ring:
+        In informatica un token ring è un tipo di rete ad anello in cui la determinazione di quale calcolatore abbia diritto a trasmettere avviene tramite un particolare messaggio, detto token.
+        
+    ARP (Address Resolution Protocol): 
+        È un protocollo di rete inerente al protocollo internet (IP) v.4, il cui compito è quello di produrre e fornire una mappatura tra indirizzo IP e indirizzo MAC.
     
     ACK:
     È il segnale di riconoscimento che viene emesso alla ricezione di un'informazione completa.
