@@ -14,10 +14,10 @@ Livello 2: Data Link
     IEEE 802.11:
          L'IEEE 802.11 fa riferimento al protocollo standard della famiglie IEEE 802 e in questo caso si identifica con la connessione Wireless (WiFi)
     
-    MAC (Media Access Control):
+  MAC (Media Access Control):
          Tale protocollo è un indirizzo fisico univoco delle schede di rete di un determinato device. Tale pacchetto ha una dimensione fissa di 48 bit ed è scritto in esadecimale.
     
-    Device di rete:
+  Device di rete:
          Tra i device di rete che influiscono all'interno del Secondo Livello, ovvero nel Data Link, troviamo gli Switch e i Bridge.
     
       
