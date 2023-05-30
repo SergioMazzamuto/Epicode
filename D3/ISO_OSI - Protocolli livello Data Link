@@ -1,0 +1,23 @@
+Livello 2: Data Link
+
+  Framing - Spacchettamento:
+      Questo livello si occupa della formazione dei dati da inviare tramite il livello Fisico, incapsulando il pacchetto con un nuovo header e nuovo payload. Questo processo viene definito Framing.
+      Il ricevitore svolgerà il processo inverso fino al raggiungimento dei dati originali. Tale Processo viene definito Spacchettamento.
+  
+  Controllo di flusso:
+      Questo livello si occupa anche del controllo dle flusso di dati, permettendo a due macchine differenti di comunicare alla stessa velocità.
+      
+  Protocolli Standard famiglia IEEE 802:
+    IEEE 802.3:
+         L'IEEE 802.3 fa riferimento al protcollo standard della famiglia IEEE 802 e in questo caso si identifica con la connessione Ethernet, quindi tramite cavo.
+    
+    IEEE 802.11:
+         L'IEEE 802.11 fa riferimento al protocollo standard della famiglie IEEE 802 e in questo caso si identifica con la connessione Wireless (WiFi)
+    
+    MAC (Media Access Control):
+         Tale protocollo è un indirizzo fisico univoco delle schede di rete di un determinato device. Tale pacchetto ha una dimensione fissa di 48 bit ed è scritto in esadecimale.
+    
+    Device di rete:
+         Tra i device di rete che influiscono all'interno del Secondo Livello, ovvero nel Data Link, troviamo gli Switch e i Bridge.
+    
+      
