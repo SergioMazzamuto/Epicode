@@ -3,22 +3,22 @@ Utilizzando il modello ISO/OSI, descrivi i passaggi che il file deve attraversar
 
 Il file per essere trasferito correttamente, deve attraversare questi passaggi:
 
-Strato fisico (Livello 1): Il file viene trasmesso attraverso il mezzo fisico della rete, ad esempio cavi Ethernet o onde radio. 
+Fisico - Livello 1: Il file viene trasmesso attraverso il mezzo fisico della rete, come cavi Ethernet. 
 In questa fase, i dati vengono convertiti in segnali digitali o analogici, a seconda del mezzo di trasmissione utilizzato.
 
-Strato di collegamento dati (Livello 2): Il file viene suddiviso in frame più piccoli e viene aggiunto un header al frame per il controllo degli errori e l'indirizzamento.
-Il frame viene quindi trasmesso al nodo successivo sulla rete.
+Collegamento Dati - Livello 2: Il file viene suddiviso in frame più piccoli e viene aggiunto un header per il controllo
+degli errori e l'indirizzamento.
 
-Strato di rete (Livello 3): Il frame viene incapsulato in un pacchetto di rete che contiene l'indirizzo IP di origine e destinazione. 
+Rete - Livello 3: Il frame viene incapsulato in un pacchetto di rete che contiene l'indirizzo IP di origine e destinazione. 
 Il pacchetto viene quindi instradato attraverso la rete verso il nodo di destinazione.
 
-Strato di trasporto (Livello 4): Il pacchetto viene suddiviso in segmenti e viene aggiunto un header di trasporto che contiene le informazioni di controllo, come i numeri di sequenza e i controlli di errore.
-Il segmento viene quindi trasmesso al nodo di destinazione.
+Trasporto - Livello 4: Il pacchetto viene suddiviso in segmenti e viene aggiunto un header di trasporto che contiene
+le informazioni di controllo, come i numeri di sequenza e i controlli di errore. Il segmento viene quindi trasmesso 
+al nodo di destinazione.
 
-Strato di sessione (Livello 5): Vengono stabiliti e gestiti i collegamenti tra i processi di origine e destinazione. In questa fase, viene negoziata la sessione di trasferimento del file.
+Sessione - Livello 5: Vengono stabiliti e gestiti i collegamenti tra i processi di origine e destinazione.
 
-Strato di presentazione (Livello 6): Vengono gestite le conversioni dei dati in formati compatibili tra i dispositivi di origine e destinazione. 
-Ad esempio, il file può essere compresso o criptato per la trasmissione.
+Presentazione - Livello 6: Vengono gestite le conversioni dei dati in formati compatibili tra i dispositivi di origine
+e destinazione. Ad esempio, il file può essere compresso o criptato per la trasmissione.
 
-Strato di applicazione (Livello 7): Il file viene finalmente trasmesso al processo di destinazione. 
-In questa fase, il protocollo di applicazione specifico viene utilizzato per completare il trasferimento del file.
+Applicazione - Livello 7: Il file viene trasmesso al processo di destinazione. 
