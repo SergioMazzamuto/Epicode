@@ -1,6 +1,31 @@
-Livello 1 - Fisico: Tramite un cablaggio strutturato si è in grado di connettere l'apparato di video sorveglianza, quindi,
-                    di questo lvl fanno parte i dispositivi che permettono la connessione, gli hardware e il controllo della rete.
-Livello 2 - Collegamento dati: In questo lvl si ha tutto ciò che permette il trasferimento dei dati, come gli switch ai quali
-                               verranno collegate le Telecamere e/o l'NVR (Network Video Recorder)  
-Livello 3 - Rete: Questo lvl ha come responsabilità quella di trovare la miglior via per la consegna delle informazioni
-                  al destinatario, tramite gli algoritmi e le tabelle di routing.
+Fisico - Livello 1: In questo livello, le immagini delle telecamere vengono convertite in segnali elettrici
+o ottici per poter viaggiare attraverso il mezzo fisico della rete.
+
+Collegamento Dati - Livello 2: In questo livello, i dati delle immagini vengono suddivisi in frame
+più piccoli e viene aggiunto un header che contiene le informazioni necessarie per la corretta consegna dei frame
+al server di registrazione (NVR). L'header potrebbe includere l'indirizzo MAC della telecamera e del server di registrazione,
+nonché i controlli di errore per garantire l'integrità dei dati durante la trasmissione.
+
+Rete - Livello 3: In questo livello, i frame contenenti i dati delle immagini vengono incapsulati in pacchetti
+di rete. Ogni pacchetto viene etichettato con un indirizzo IP di origine e destinazione.
+Il livello di rete si occupa dell'instradamento dei pacchetti attraverso la rete verso il server di registrazione,
+consentendo il passaggio da un nodo di rete all'altro fino a raggiungere la destinazione corretta.
+
+Trasporto - Livello 4: In questo livello, i pacchetti provenienti dalle telecamere vengono suddivisi in segmenti
+e viene aggiunto un header di trasporto. L'header di trasporto contiene informazioni come i numeri di sequenza,
+i controlli di errore e i numeri di porta di origine e destinazione.
+Il protocollo di trasporto più comune a questo livello è il Transmission Control Protocol (TCP), 
+che fornisce un flusso affidabile di dati tra la telecamera e il server di registrazione.
+
+Sessione - Livello 5: Questo livello gestisce l'inizio, la gestione e la chiusura delle sessioni di comunicazione 
+tra la telecamera e il server di registrazione. Può coinvolgere l'autenticazione e l'autorizzazione per consentire
+alle telecamere di trasmettere le immagini al server di registrazione.
+
+Presentazione - Livello 6: Nel caso della videosorveglianza, il livello di presentazione può coinvolgere
+la compressione delle immagini per ridurre la quantità di dati trasmessi. Ciò può aiutare a ottimizzare l'utilizzo
+della larghezza di banda di rete.
+
+Applicazione - Livello 7: A questo livello, le immagini delle telecamere vengono trasferite al server
+di registrazione utilizzando il protocollo di applicazione specifico per il sistema di videosorveglianza IP.
+Questo protocollo consentirà la corretta ricezione, l'elaborazione e la memorizzazione delle immagini sul server
+di registrazione.
