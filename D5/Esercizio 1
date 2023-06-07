@@ -1,1 +1,6 @@
-
+Livello 1 - Fisico: Tramite un cablaggio strutturato si è in grado di connettere l'apparato di video sorveglianza, quindi,
+                    di questo lvl fanno parte i dispositivi che permettono la connessione, gli hardware e il controllo della rete.
+Livello 2 - Collegamento dati: In questo lvl si ha tutto ciò che permette il trasferimento dei dati, come gli switch ai quali
+                               verranno collegate le Telecamere e/o l'NVR (Network Video Recorder)  
+Livello 3 - Rete: Questo lvl ha come responsabilità quella di trovare la miglior via per la consegna delle informazioni
+                  al destinatario, tramite gli algoritmi e le tabelle di routing.
