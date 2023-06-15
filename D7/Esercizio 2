@@ -1,0 +1,22 @@
+P1: 
+    Turnaround: 26
+    Attesa: 12
+
+P2: 
+    Turnaround: 116
+    Attesa: 76
+       
+P3: 
+    Turnaround: 84
+    Attesa: 56
+
+P4: 
+    Turnaround: 72
+    Attesa: 56
+    
+P5: 
+    Turnaround: 78
+    Attesa: 52
+    
+TURNAROUND MEDIO: 75,2
+ATTESA MEDIA: 50,4
