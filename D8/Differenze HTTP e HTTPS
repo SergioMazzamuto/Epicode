@@ -1,0 +1,6 @@
+Le differenze tra http e https risiedono nella riservatezza delle informazioni scambiate tra i server che si collegano durante la navigazione ad un sito web.
+Il protocollo HTTPS utilizza delle informazioni non criptate e altre criptate, la cui difficoltà di decriptazione risulta molto elevata, rendendo lo scambio
+di informazioni sensibili come password e/o numeri di carte di credito-debito molto più sicuri rispetto al protocollo HTTP che risulta totalmente sprovvisto di
+tali sicurezze.
+Un'altra differenza è constatabile nella tipologia di porta utilizzata dalle due.
+Il protocollo HTTP si appoggia alla porta 80 TPC, mentre il protocollo HTTPS si appoggia alla porta 443 delle porte TPC.
