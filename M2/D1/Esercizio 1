@@ -1,0 +1,18 @@
+/home/studenti/nicola --> dove mi trovo  || pwd
+cd /home/studenti/anna --> dove vado
+cp /home/studenti/nicola/scuola/compito.txt
+mv /home/studenti/anna/casa/relazione.doc
+rmdir -r /home/tmp
+touch /home/studenti/nicola/lavoro/pippo.txt
+sudo chown nicola+rw /home/studenti/nicola/lavoro/pippo.txt
+sudo chmod nicola+rw /home/studenti/nicola/lavoro/pippo.txt
+NASCONDERE CONTENUTO CARTELLA (????)
+cd /home/studenti/nicola/lavoro/pippo.txt --> ls /home/kali/studenti/nicola/lavoro/pippo.txt
+rmdir /home/studenti/matteo/amici
+sudo rm /home
+
+
+vi pippo
+Nuovo terminale --> ps aux --> kill 37662
+Firefox --> ps aux --> kill 39074
+df -h
