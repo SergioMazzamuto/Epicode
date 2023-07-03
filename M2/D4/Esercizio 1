@@ -1,0 +1,11 @@
+QUADRATO:
+
+lato = input ("inserisci la lunghezza del lato in m:")
+result = (float(lato)*4)
+print (result)
+
+CERCHIO:
+
+pgreco = float(3.14)
+raggio = input ("inserisci il raggio in cm:")
+result = (int(2)*(float(pgreco))*((float(raggio)))
