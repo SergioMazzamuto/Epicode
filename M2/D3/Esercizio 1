@@ -1,0 +1,197 @@
+#include <stdio.h>
+#include <conio.h>
+#include <ctype.h>
+#include <stdlib.h>
+#include <string.h>
+
+void mostra_risultati();
+void resetta_risultati();
+void modifica_risultato(float , chat []);
+int main()
+
+{
+
+int  countr,r,r1,count,i,n;
+float risultato;
+char scelta;
+char nome_utente[20];
+mainhome:
+
+system ("cls");
+printf ("\t\t\tC Gioco Quiz\n");
+printf("\n\t\t_______________________________");
+
+printf("\n\t\t\t BENVENUTO")
+printf("\n\t\t_______________________________");
+printf("\n\t\t\t Premi S per iniziare il gioco")
+printf("\n\t\t\t Premi V per vedere il punteggio più alto")
+printf("\n\t\t\t Premi R per resettare il punteggio")
+printf("\n\t\t\t Premi H per aiuto")
+printf("\n\t\t\t Premi Q per chiudere il gioco")
+printf("\n\t\t_______________________________");
+
+choice=toupper(getch());
+if choice=='V'
+{
+mostra_risultati();
+goto mainhome;
+}
+aiuto();getch();
+goto mainhome;
+}
+else if (choice=='R')
+{resetta_risultati();
+getch();
+goto mainhome;
+}
+else if (choice=='S')
+{
+system("cls");
+
+printf("\n\n\n\n\n\n\n\n\n\n\t\t\t Il tuo nome:");
+gets(nome_utente);
+
+system("cls");
+printf("\n ------------- Benvenuto %s al Quiz in C -------------", nome_utente);
+printf("\n\n Ecco alcune dritte sul gioco:");
+printf("\n Ti saranno fatte delle domande e dovrai dare delle risposte, non preoccuparti se giuste o meno!");
+printf("\n\n\n Premi Y per iniziare il gioco!\n");
+printf("\n Premi qualsiasi altro tasto per tornare al menù principale!");
+if (toupper(getch())=='Y')
+	{
+		goto home;
+	}
+else
+	{
+		goto mainhome;
+		system("cls");
+	}
+
+home:
+system("cls");
+count=0;
+for(i=1;i<=3;i++)
+{
+system("cls");
+r1=i;
+
+
+
+switch(r1)
+	{
+	case 1:
+	printf("\n\n Ti sta venendo semplice la creazione di questo programma?")
+	printf("\n\n A.Si\t\t B.No\n\nC.Non lo so\t\tD.Mediamente");
+	if (toupper(getch))=='B')
+		{
+			printf("\n\nCorretto!!!");count++;
+			getch();
+			break;
+		}
+
+	else
+		{
+			printf("\n\n Sbagliato!! Ti vergogni ad ammettere la difficoltà? La risposta giusto è B.No")
+			getch();
+		break;
+		 }
+
+	case 2:
+	printf("\n\n\n In che Paese Europeo è stato creato questo programma?")
+	printf("\n\nA.Italia\t\tB.Francia\n\nC.Germania\t\tD.Norvegia");
+	if (toupper(getch())=='A'
+		{
+			printf("\n\nCorretto!!");count++;
+			getch();
+			break;
+		}
+
+	else
+		{
+			printf ("\n\nSbagliato!!! La risposta giusta è A.Italia");
+			getch();
+			break;
+		}
+
+
+	case 3:
+	printf("\n\nQual'è il miglior amico dell'uomo?");
+	printf("\n\nA.Orso\t\tB.Gatto\n\nC.Scimmia\t\tD.Cane");
+	if (toupper(getch())=='D')
+		{
+		printf("\n\nCorretto!!!");count++;
+		getch();
+		break;
+		}
+
+	else
+		{
+		printf("\n\nSbagliato!!! La risposta giusta è D.Cane");
+		getch();
+		break;
+		}
+
+if(count>=2)
+{
+goto test;}
+else
+{
+system("cls");
+printf("\n\n Mi dispiace non hai superato il test");
+getc();
+goto mainhome;
+}
+test:
+system("cls");
+printf("\n\n\t\*** Congratulazioni %s hai vinto!!***", nome_utente)
+{goto go;}
+
+go:
+puts("\n\n Premi Y se vuoi giocare un'altra partita");
+puts("Premi qualsiasi tsto per andare al menù principale");
+if (toupper(getch())=='Y')
+	goto home;
+else
+	{
+	edit_score(risultato,nome_utente);
+	goto mainhome;}}}
+
+
+void mostra_risultati()
+	{
+	system("cls");
+	char nome_utente[20];
+	float scr;
+	FILE *f;
+	f=fopen("risultati.txt","r");
+	fscanf(f, "%s%f", &nome_utente, &scr);
+	printf("\n\n\t\t**********************************************");
+	printf("\n\n\t\t %s ha il risultato più alto %0.2f",nome_utente,scr);
+	printf("\n\n\t\t**********************************************");
+	fclose(f);
+	getch();
+	}
+
+void resetta_risultati()
+	{system ("cls");
+	float sc;
+	char nm[20];
+	FILE *f;
+	f=fopen("risultati.txt","r+");
+	fscanf(f,"%s,%.2f", nm, sc);
+	fclose()f;}
+
+void modifica_risultato(float risultato, char plnm[20])
+	{system("cls");
+	float sc;
+	char nm[20];
+	FILE *f;
+	f=fopen("risultati.txt","r");
+	fscanf(f,"%s%f", &nm, &sc);
+	if (risultato>=sc)
+		{
+		sc=risultato;
+		fclose(f);
+		f=fopen("risultato.txt","w");
+		fprintf(f, "%s\n\%.2f",plnm, sc);
+		fclose(f);}}
