@@ -1,0 +1,21 @@
+def  password_generator():
+	print ("Puoi scegliere che tipo di password creare")
+
+	ascii_chars = string.digits + string.ascii_letters + string.punctuation
+	alphanum_chars = string.digits + string.ascii_letters
+
+	if input("Password Facile o Complessa? F/C") == "C":
+		lunghezza = 20
+		tipo = ascii_chars
+	else:
+		lunghezza = 8
+		tipo = alphanum_chars
+
+	psw = ""
+	counter = 0
+
+	while counter < lunghezza:
+		char = random.choice(tipo)
+		psw += char
+		counter += 1
+	print (f"La Password Generata Casualmente è: {psw}")
