@@ -18,4 +18,4 @@ def  password_generator():
 		char = random.choice(tipo)
 		psw += char
 		counter += 1
-	print (f"La Password Generata Casualmente è: {psw}")
+	print ("La Password Generata Casualmente è: {psw}")
